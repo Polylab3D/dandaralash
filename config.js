@@ -7,7 +7,7 @@ const CONFIG = {
   // Informações do Negócio
   business: {
     name: 'Dandara Lash Designer',           // Ex: "Nails Designer"
-    logoFile: 'logo.svg',               // Nome do arquivo do logo (deve estar na mesma pasta)
+    logoFile: 'logo.png',               // Nome do arquivo do logo (deve estar na mesma pasta)
   },
 
   // Número MBWay
