@@ -6,29 +6,24 @@
 const CONFIG = {
   // Informações do Negócio
   business: {
-    name: 'Jacqueline Sillis',           // Ex: "Nails Designer"
+    name: 'Dandara Lash Designer',           // Ex: "Nails Designer"
     logoFile: 'logo.svg',               // Nome do arquivo do logo (deve estar na mesma pasta)
   },
 
   // Número MBWay
   mbway: {
-    phoneDisplay: '+351 967 872 889',        // Formato visual (com espaços)
-    phoneValue: '967872889',            // Número real (sem espaços, será copiado)
+    phoneDisplay: '+351 966 737 018',        // Formato visual (com espaços)
+    phoneValue: '966737018',            // Número real (sem espaços, será copiado)
   },
 
   // Cores e Estilo
   theme: {
-    // Cor principal (botão MBWay)
-    primaryColor: '#2E7D32',            // Verde MBWay padrão
-    primaryColorHover: '#256427',       // Verde mais escuro ao passar mouse
-
-    // Fundo da página
-    backgroundColor: '#f5f5f5',         // Cinza claro
-
-    // Card
-    cardBackground: '#ffffff',          // Branco
-    cardShadow: '0 4px 24px rgba(0,0,0,0.08)',
-  },
+  primaryColor: '#7E8E78',
+  primaryColorHover: '#6B7966',
+  backgroundColor: '#EEF1EB',
+  cardBackground: '#FCFCFA',
+  cardShadow: '0 8px 24px rgba(62, 78, 58, 0.12)',
+},
 
   // Textos Customizáveis
   text: {
